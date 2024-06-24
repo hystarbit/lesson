@@ -1,0 +1,8 @@
+브랜치 만들어서 개발하고
+merge하는게 안정적
+
+github.com에서도 브랜치 생성가능
+브랜치 관리가능
+
+로컬저장소에서 브랜치 만들고 push해도 똑같음
+git branch smile
