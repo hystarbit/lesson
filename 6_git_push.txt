@@ -38,3 +38,10 @@ git push -u origin main
 git push할 때 -u추가하면 주소 기억하라는 뜻
 
 git push
+
+원격저장소에 있던거 그대로 내려받기
+git clone https://원격저장소주소
+
+저장소에 올리지 않는 파일들은 .gitignore
+
+잠은 보약이다~
