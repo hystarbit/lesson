@@ -1,0 +1,23 @@
+github1
+git push, pull 알아도 자신이 없다면
+원격 repository 개념부터 알고있어야합니다
+
+git 얘 뭐임?
+파일버전 기록해주는 프로그램임
+git이 파일 기록해두는 장소: repository(원격저장소)
+온라인 repository 만들면
+1. 컴퓨터 고장나도 안심
+2. 협업가능
+
+원격저장소를 만들어봅시다
+github.com 들어가쇼
+이상판파일 추가금지
+
+로컬저장소를 원격저장소에 백업해보자
+
+git init
+repository 생성해줌
+
+github.com은 기본브랜치 이름을 main으로 강요함
+git branch -M main
+
