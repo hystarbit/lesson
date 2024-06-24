@@ -21,3 +21,20 @@ repository 생성해줌
 github.com은 기본브랜치 이름을 main으로 강요함
 git branch -M main
 
+로컬저장소 완성
+
+로컬 -> 원격저장소 업로드는
+git push -u 원격저장소주소 올릴로컬브랜치명
+git push -u https://github.com/hystarbit/lesson.git main
+
+(git pull부터 하라고 하면
+git pull부터 입력해보세요)
+
+git에서 변수문법 사용가능
+git remote add 변수명 주소~~
+git remote add origin https://github.com/hystarbit/lesson.git
+
+git push -u origin main
+git push할 때 -u추가하면 주소 기억하라는 뜻
+
+git push
